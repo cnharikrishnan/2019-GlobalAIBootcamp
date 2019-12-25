@@ -87,7 +87,7 @@ You start with ingesting the data, for which you have three options:
 
 Once you have the data, you can start inspecting it, and start the pre-processing part to obtain a clean, high-quality data set.
 
-We obtained the data from the UCI Machine Learning repository website and combined the red and white datasets. This file 'winedata.csv' can be found in the GitHub repo [Wine Quality: Data ingest and exploratory data analysis](https://github.com/mdragt/WineQuality) that can be used for this workshop. The dataset will be prepared so you can upload it to the Azure Machine Learning designer.
+We obtained the data from the UCI Machine Learning repository website and combined the red and white datasets. This file 'winedata.csv' can be found in the GitHub repo [Wine Quality: Data ingest and exploratory data analysis](https://github.com/harikrishnann/2019-GlobalAIBootcamp) that can be used for this workshop. The dataset will be prepared so you can upload it to the Azure Machine Learning designer.
 
 *Note: this dataset is from a GitHub repo, meaning that it might be updated every now and then.*
 
